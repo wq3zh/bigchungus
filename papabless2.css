@@ -1,0 +1,25 @@
+body {
+    font-family: "Comic Sans MS";
+    color:blueviolet;
+    margin: auto;
+    font-weight: 100px;
+}
+.message span{
+    color: magenta;
+    border: 5px;
+    padding: 15px;
+    background: white;
+    background-clip: content-box;
+}
+.yeet span{
+    position: absolute;
+    right: 400px;
+    width: 300px;
+    padding: 90px;
+}
+.xd span{
+    border: 5px;
+    padding: 15px;
+    background: white;
+    background-clip: content-box;
+}
