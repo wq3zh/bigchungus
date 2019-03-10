@@ -1,0 +1,23 @@
+body {
+    background-image: url("nword.jpg");
+    background-size: 200px 200px;
+    background-repeat: repeat;
+    font-family: "Comic Sans MS";
+    color:blueviolet;
+    margin: auto;
+    font-weight: 100px;
+}
+.message span{
+    color: magenta;
+    border: 5px;
+    padding: 15px;
+    background: white;
+    background-clip: content-box;
+}
+
+.xd span{ 
+    border: 5px;
+    padding: 15px;
+    background: white;
+    background-clip: content-box;
+}
